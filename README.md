@@ -2,7 +2,6 @@
 
 The project **Smart Text Editor** was designed and developed as part of the course Data Structure and Performance that provides functionality of autocomplete, flagging misspelled words and spelling auto-correct. Each module of the course required implementing backend code for the text editor where front-end a runnable JavaFX program and certain graders and tester classes was provided by the UCSD to test and demonstrate the implementations.   
 
-
 ----------------------------------------------------------------------------------------------------------------------------------------
    
 ## SETUP:   
